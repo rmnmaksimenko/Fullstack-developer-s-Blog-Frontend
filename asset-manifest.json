@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fullstack-developer-s-Blog-Frontend/static/css/main.7acaea2f.css",
+    "main.js": "/Fullstack-developer-s-Blog-Frontend/static/js/main.07d3183d.js",
+    "index.html": "/Fullstack-developer-s-Blog-Frontend/index.html",
+    "main.7acaea2f.css.map": "/Fullstack-developer-s-Blog-Frontend/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/Fullstack-developer-s-Blog-Frontend/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
