@@ -6,7 +6,7 @@ import { BrowserRouter } from 'react-router-dom';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter basename="fullstack-developer-s-blog-frontend">
+    <BrowserRouter basename="blog">
       <App />
     </BrowserRouter>
   </React.StrictMode>
