@@ -1,8 +1,8 @@
 {
-  "name": "fullstack-developer-s-blog-frontend",
+  "name": "fullstack-developers-blog",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rmnmaksimenko.github.io/Fullstack-developer-s-Blog-Frontend/",
+  "homepage": "https://rmnmaksimenko.github.io/fullstack-developers-blog/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
